@@ -46,7 +46,7 @@
 
 ### Exercise 1: [My Name Is](http://youtu.be/Uf4wsJZtxBY)
 
-### Exercise 2: [List](http://bit.ly/ng-todo)
+### Exercise 2: [List](http://youtu.be/IAS_7gAR-Y0)
 
 ### Exercise 3: Airstrike
 * [Video 1](http://bit.ly/ng-air-1)
