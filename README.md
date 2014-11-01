@@ -44,7 +44,7 @@
 * `open http://localhost:8000`
 * Complete the 3 exercises
 
-### Exercise 1: [My Name Is](http://youtu.be/_oEdtoO0Q5Q)
+### Exercise 1: [My Name Is](http://youtu.be/Uf4wsJZtxBY)
 
 ### Exercise 2: [List](http://bit.ly/ng-todo)
 
