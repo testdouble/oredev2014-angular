@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>Øredev 2014 Angular Workshop</h1>
-        <div>
+        <div ng-app="app" ng-controller="listCtrl">
             <h2>List</h2>
 
             <form>
@@ -16,11 +16,7 @@
             </form>
 
             <ul class='list-unstyled'>
-                <li>Add the ng-app='app' directive to the outer div</li>
-                <li>Add the angular module declaration to app/js/app.js</li>
-                <li>Add ng-controller='listCtrl' to the same div: &lt;div ng-app="app" ng-controller='listCtrl'&gt;</li>
-                <li>Create an angular listCtrl in app/js/list/list-ctrl.js (new file)</li>
-                <li>Continue from app/assets/javascripts/list/tasks.js</li>
+                <li ng-repeat="task in tasks">{{ task.description }}</li>
             </ul>
 
         </div>
