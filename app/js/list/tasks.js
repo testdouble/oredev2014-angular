@@ -17,7 +17,7 @@
         description: "Use ng-repeat to render each li",
         complete: false,
     },{
-        description: "Add a <input type='checkbox'> to mark tasks complete: https://docs.angularjs.org/api/ng/input/input[checkbox]",
+        description: "Add a <input type='checkbox' ng-model='complete'> to mark tasks complete: https://docs.angularjs.org/api/ng/input/input[checkbox]",
         complete: false,
     },{
         description: "use ng-submit to push new tasks into the tasks array: https://docs.angularjs.org/api/ng/directive/ngSubmit",
