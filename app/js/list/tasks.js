@@ -29,10 +29,10 @@
         description: "**bonus** Complete tasks should be crossed off",
         complete: false,
     },{
-        description: "**bonus** Allow users to delete tasks",
+        description: "**bonus** Allow users to delete tasks: http://stackoverflow.com/a/500617",
         complete: false,
     },{
-        description: "**bonus** Get tasks from the lineman server instead of this file. http://linemanjs.com/#api-integration",
+        description: "**double bonus** Get tasks from the lineman server instead of this file. http://linemanjs.com/#api-integration",
         complete: false,
     }];
 
