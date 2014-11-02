@@ -1,5 +1,5 @@
 (function () {
-    "use strict"
+    "use strict";
 
     window.tasks = [{
         description: "Add the ng-app='app' directive",
