@@ -5,6 +5,7 @@
         var self = this;
         self.lastShot = null;
         self.enemyShips = ["A1", "B1", "C2", "C3", "C4"];
+        self.columnHeaders = "1234567".split("");
     }
 
     Game.prototype.fire = function (shot) {

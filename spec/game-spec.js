@@ -17,4 +17,9 @@ describe("A game of airstrike", function () {
         game.fire("A4");
         expect(game.status()).toBe("MISS!");
     });
+
+    it("has columnHeaders 1 through 7", function () {
+        expect(game.columnHeaders[0]).toBe("1");
+        expect(game.columnHeaders[6]).toBe("7");
+    });
 });
