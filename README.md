@@ -44,9 +44,13 @@
 * `open http://localhost:8000`
 * Complete the 3 exercises
 
-### Exercise 1: [My Name Is](http://youtu.be/Uf4wsJZtxBY)
+### Exercise 1: My Name Is
+* [Video Walkthrough](http://youtu.be/Uf4wsJZtxBY)
 
-### Exercise 2: [List](http://youtu.be/IAS_7gAR-Y0)
+### Exercise 2: List
+* [Video 1](http://youtu.be/IAS_7gAR-Y0)
+* [Video 2](http://youtu.be/KGHJYR58CQk)
+
 
 ### Exercise 3: Airstrike
 * [Video 1](http://bit.ly/ng-air-1)
