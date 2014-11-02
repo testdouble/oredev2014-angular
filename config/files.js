@@ -13,6 +13,10 @@ module.exports = function(lineman) {
     // the order in which to load third party JS libs:
     //
     js: {
+        app: [
+          "app/js/app.js",
+          "app/js/**/*.js"
+        ],
       vendor: [
         "vendor/js/underscore.js",
         "vendor/js/jquery.js",
