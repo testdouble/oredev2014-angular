@@ -10,13 +10,16 @@
         <div ng-app="app" ng-controller="listCtrl">
             <h2>List</h2>
 
-            <form>
-                <input>
+            <form ng-submit="addTask(description)">
+                <input ng-model="description">
                 <button class='btn btn-default'>Add</button>
             </form>
 
             <ul class='list-unstyled'>
-                <li ng-repeat="task in tasks">{{ task.description }}</li>
+                <li ng-repeat="task in tasks">
+                    <input type="checkbox" ng-model="task.complete">
+                    {{ task.description }}
+                </li>
             </ul>
 
         </div>

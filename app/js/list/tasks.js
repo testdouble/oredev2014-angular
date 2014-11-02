@@ -12,13 +12,13 @@
         complete: true,
     },{
         description: "In the controller, assign tasks to $scope.tasks",
-        complete: false,
+        complete: true,
     },{
         description: "Use ng-repeat to render each li",
-        complete: false,
+        complete: true,
     },{
         description: "Add a <input type='checkbox'> to mark tasks complete: https://docs.angularjs.org/api/ng/input/input[checkbox]",
-        complete: false,
+        complete: true,
     },{
         description: "use ng-submit to push new tasks into the tasks array: https://docs.angularjs.org/api/ng/directive/ngSubmit",
         complete: false,
