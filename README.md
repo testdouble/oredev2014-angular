@@ -53,7 +53,7 @@
 
 
 ### Exercise 3: Airstrike
-* [Video 1](http://bit.ly/ng-air-1)
+* [Video 1](http://youtu.be/32-mf9TLpZ4)
 * [Video 2](http://bit.ly/ng-air-2)
 * [Finished Example](https://github.com/testdouble/railsconf-test-drive-javascript/tree/master/02a_lineman_finish)
 
