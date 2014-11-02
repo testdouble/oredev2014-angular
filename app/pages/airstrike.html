@@ -7,9 +7,11 @@
   </head>
   <body class="container" ng-app="app" ng-controller="gameCtrl">
       <h1>Airstrike!</h1>
-      <h2>Status: {{ 1 + 1 }}</h2>
-      <form>
-          <input type="text">
+      <!-- TODO: Status should display "You may fire when ready." "HIT!" "MISS!" or "You win!" -->
+      <h2>Status: {{ status() }}</h2>
+      <!-- TODO: Form submit should fire shots. -->
+      <form ng-submit="fire(shot)">
+          <input type="text" placeholder="A1" ng-model="shot">
           <button class="btn">Fire!</button>
       </form>
 
