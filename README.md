@@ -58,7 +58,7 @@
 * [Video 3](http://youtu.be/BACQF1ydHFs)
 * [Video 4](http://youtu.be/2uqwy8lzk_4)
 
-* [Finished Example](https://github.com/testdouble/railsconf-test-drive-javascript/tree/master/02a_lineman_finish)
+* [Finished Example](https://github.com/testdouble/railsconf-test-drive-javascript/tree/main/02a_lineman_finish)
 
 
 ![Mockup](/mockup.png?raw=true)
